@@ -3,10 +3,12 @@
 Third project of a series of three to learn the basics of **DOM manipulation**. 
 
 ## How to play:
-1. Type a number between 1 and 20
-2. Click the button 'Check!'
-3. The program will show if you guess is too high or to low
-4. If you guessed you can click the 'Again!' button to restart the game
+1. The first player to reach a score of 100 wins
+2. Click the button 'ROLL DICE' to roll the dice
+3. The number you rolled will be added to your current score and you will keep rolling until you roll a '1'
+4. If you roll a '1' you will lose all your score and the next player will roll now
+5. You can hold you score clicking the button 'HOLD' and will saved it and the next player will roll
+6. Greed is key, but you need to measure it
 
 ## Functionalities reviewed:
 - Selecting and manipulating elements
