@@ -1,6 +1,9 @@
 # Pig Game
 
-Third project of a series of three to learn the basics of **DOM manipulation**. 
+Third project of a series of three to learn the basics of **DOM manipulation**.
+
+- First project: [Guess my number](https://github.com/Fernando-Lz/guess-my-number)
+- Second project: [Modals](https://github.com/Fernando-Lz/modals)
 
 ## How to play:
 1. The first player to reach a score of 100 wins
